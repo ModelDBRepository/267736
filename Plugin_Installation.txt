@@ -1,0 +1,24 @@
+
+1. Download and install CellDesigner4.4.2 , if not already installed. 
+
+2. Download and install Java 1.8 , if not installed already. 
+
+3. Locate CellDesigner installed folder in the computer. (Default path will be  “C:\Program Files\CellDesigner4.4.2”).
+
+4. Download CellDesigner 4.4 Google Summer of Code edition, celldesigner.jar from the following link and replace it with the default celldesigner.jar which is located in the CellDesigner installed folder. 
+Link: http://www.celldesigner.org/~funa/GSoC/celldesigner.jar
+
+5. Download and copy the file “SBMLsqueezer_v2.0.1_incl-libs” (7250KB) in the plugin folder, from the link:
+
+http://www.cogsys.cs.uni-tuebingen.de/software/SBMLsqueezer/downloads/SBMLsqueezer_v2.1.jar
+
+6. Rename the old file name as “SBML-squeezer…_back” or something similar so that old file will have a different name from the new file.
+
+7. Download “jsbml-1.1-a1-incl-libs.jar” from the following link and rename the downloaded file to “jsbml-1.0-incl-libs.jar”
+
+Link: http:// www.cogsys.cs.uni-tuebingen.de/software/SBMLsqueezer/downloads/jsbml-1. 1-a1-incl-libs.jar 
+
+8. Copy the renamed file “jsbml-1.0-incl-libs.jar” into the lib folder. 
+
+9. Restart the CellDesigner. 
+
